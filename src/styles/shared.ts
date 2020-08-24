@@ -54,7 +54,7 @@ export const SiteDescription = styled.h2`
   padding: 5px 0;
   font-size: 2.1rem;
   line-height: 1.4em;
-  font-weight: 400;
+  font-weight: bold;
   opacity: 0.8;
 
   @media (max-width: 500px) {
@@ -113,10 +113,11 @@ export const SiteHeaderContent = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
   padding: 6vw 3vw;
   min-height: 200px;
   max-height: 340px;
+  font-weight: bold;
 `;
 
 export const SiteHeaderStyles = css`
@@ -409,4 +410,11 @@ export const NoImage = css`
       color: rgba(255, 255, 255, 0.75);
     }
   }
+`;
+
+export const NavTitleText = styled.p`
+  margin: 0;
+  font-size: 1.5em;
+  padding: 8px 20px;
+  text-transform: none;
 `;
