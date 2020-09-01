@@ -108,7 +108,7 @@ export const PostFullContent = styled.section`
 
   a:hover {
     /* color: var(--blue); */
-    color: ${colors.blue};
+    color: ${colors.purple};
     text-decoration: none;
     /* box-shadow: var(--blue) 0 -1px 0 inset; */
     box-shadow: ${colors.blue} 0 -1px 0 inset;

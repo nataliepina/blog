@@ -49,8 +49,8 @@ export interface WebsiteConfig {
 }
 
 const config: WebsiteConfig = {
-  title: 'Natalie Pina Blog',
-  description: 'A Front End Software Engineer. Welcome to the location of my ramblings on topics that interest me, ranging from programming to house plants. Thanks for stopping by! ',
+  title: 'Natalie Pina',
+  description: 'Front End Software Engineer. Welcome to the location of my ramblings on topics that interest me, ranging from programming to house plants. ',
   coverImage: 'img/blog-cover.png',
   logo: 'img/ghost-logo.png',
   lang: 'en',
