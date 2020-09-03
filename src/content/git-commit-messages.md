@@ -124,3 +124,6 @@ Review the following messages and see how many of the guidelines they check off 
 
 Writing good commit messages is an extremely beneficial skill to develop, to aid in the communication and collaboration of teams. They serve as an archive of important changes. There is a general set of agreed-upon standards for commit messages, however, as long as your team agrees upon a convention that is descriptive with future readers in mind, there will be long-term benefits. How do you think these techniques can improve your commits?
 
+
+
+Cover Photo Credit: ![@YancyMin](https://unsplash.com/@yancymin)
