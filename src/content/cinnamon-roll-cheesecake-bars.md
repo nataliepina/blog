@@ -2,23 +2,19 @@
 title: 'Cinnamon Roll Cheesecake Bars'
 author: [Natalie Pina]
 tags: ["Baking", "Cinnamon Roll Cheesecake Bars", "Cinnamon", "Cheesecake", "Cheesecake Bars", "Cinnamon Bun", "Cinnamon Roll"]
-image: img/cinnamon_roll_cheesecake.jpg
+image: img/cinnamonroll.jpg
 date: '2020-09-11T10:00:00.000Z'
 draft: false
 ---
 
-
-# Cinnamon Roll Cheesecake Bars
-<br>
 The perfect pairing of creamy cheesecake with cinnamon swirls atop a cinnamon graham cracker crust.
+<br/>
 
 #### Yield: 9 squares
 #### Prep Time: 30 minutes
 #### Bake Time: 50 minutes
 #### Additional Time: 10 minutes
 #### Total Time: 1 hour 30 minutes
-
-
 
 <br>
 I'm going to cut right to the instructions, because no one has time to be scrolling through giant blocks of text just to be served ads!

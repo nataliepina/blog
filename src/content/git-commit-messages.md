@@ -8,12 +8,12 @@ draft: false
 ---
 
 
-There is a stage in everyones career where they have no idea what to write in a commit message. Eventually, you manage to come up with some sort of basic habits in your commit style. Have you ever wondered how you can improve those commit messages? Look no further! This guide outlines simple ways to improve your commits.
+There is a stange in learning git where most developers don't know what a good commit message consists of. Eventually, you manage to come up with some sort of basic habits in your commit style. Have you ever wondered how you can improve those commit messages? Look no further! This guide outlines simple ways to improve your commits.
 
 This article assumes you already understand basic git workflow. If not read some more about it it here: [Git Handbook](https://guides.github.com/introduction/git-handbook/) 
 
 
-**Disclaimer:**  It is also important to note that you should follow your team's conventions first and foremost. These tips are based on suggestions based upon research and the general consensus from the community.
+**Disclaimer:**  It is also important to note that you should follow your team's conventions first and foremost. These tips are based on suggestions based upon research and general consensus from the community.
 
 
 
@@ -55,12 +55,13 @@ Ex: Bugfix, Update, Refactor, Bump, etc.
 The first line should be no more than 50 characters, and 72 for the description.
 
 ###### 5. Content
-Be direct, try to eliminate filler words/phrases in these sentences (ex: though, maybe, I think, kind of). Think like a journalist, sum up the changes happening in your commit as an overview. Look to summarize by answering _what_ and _why_ more so than _how_. 
+Be direct, try to eliminate filler words/phrases in these sentences (ex: though, maybe, I think, kind of). Think like a journalist. Journalists and writers ask themselves questions to ensure their article is detailed, straightforward and answers all of the readers questions. They look to answer: _who_, _what_, _where_, _why_, _when_ and _how_. Some of these questions are clear such as _who_ is committing the code, _when_ changes were committed and _how_ through the code changes themselves. What we really need to focus on answering is _why_ and _what_.
+
 For example, ask yourself:
 - Why have I made these changes?
 - What effect have my changes made?
-- Why were this change needed?
-- What are my changes referring to?
+- Why was the change needed?
+- What are the changes in reference to?
 
 -----
 
@@ -78,13 +79,17 @@ See the difference below:
 
 It is clear which of these would be more useful to future readers. 
 
-- Think like a journalist. Give the headline that will sum up what happened. Provide further details in the body in an organized fashion. In filmmaking, it is often quoted "show, don't tell" using visuals as the communication medium compared to a verbal explanation of what is happening. In our case, "TELL, don't show" though we have some visuals at our disposal such as the browser, most of the details come from reading the physical code.
+- Pretend you're writing an email or article. Give the headline that will sum up what happened and what is important. Provide further details in the body in an organized fashion. In filmmaking, it is often quoted "show, don't tell" using visuals as the communication medium compared to a verbal explanation of what is happening. In our case, "TELL, don't show" though we have some visuals at our disposal such as the browser, most of the details come from reading the physical code.
 
-- If you're using VSCode -- download GitBlame! This is a prime example of why useful commit messages can help future developers. This plugin will list the person who made the change as well as the commit message inline. Imagine how useful this could be in troubleshooting a bug or backtracing changes made.
+- Use a set of common prefixes for your commit messages. There are different implementation convetions out there for this. Examples: feat, fix, docs, style, refactor, test, chore. 
+[Source](https://seesparkbox.com/foundry/semantic_commit_messages) 
+
+
+- If you're using VSCode -- download GitBlame! This is a prime example of why useful commit messages can help future developers. This plugin will list the person who made the change, the date of the changes, as well as the commit message commented inline. Imagine how useful this could be in troubleshooting a bug or backtracing changes made.
 
 ![GitBlame](img/git-commit-gitblame.png)
 
-
+-----
 
 ###Commit Example Comparison:
 
@@ -118,7 +123,7 @@ Review the following messages and see how many of the guidelines they check off 
 
 - ` 💩 ` 
 
-
+-----
 
 ## Conclusion: TLDR;
 
@@ -126,4 +131,4 @@ Writing good commit messages is an extremely beneficial skill to develop, to aid
 
 
 
-Cover Photo Credit: ![@YancyMin](https://unsplash.com/@yancymin)
+Cover Photo Credit: [@YancyMin](https://unsplash.com/@yancymin)
