@@ -1,7 +1,7 @@
 ---
 title: 'Coding Journey: Quit Your Job and Become a Software Engineer'
 author: [Natalie Pina]
-tags: ["Code", "Software Engineer", "Learn to Program", "Learn To Code", "Coding", "Learning"]
+tags: ["Code", "Software Engineer", "Learn to Program", "Learn To Code", "Coding", "Learning", "Junior Develoer", "Code newbie", "Learning to Code", "Quit your job"]
 image: img/coding-journey.jpg
 date: '2020-09-14T10:00:00.000Z'
 draft: false
