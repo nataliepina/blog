@@ -7,7 +7,7 @@ date: '2020-09-14T10:00:00.000Z'
 draft: false
 ---
 
-Have you been considering quitting your job to pursue a career in Software Engineering?
+Have you been considering a career in Software Engineering?
 
 Software Engineer is currently one of the fastest growing careers. "Employment of software developers is projected to grow 21 percent from 2018 to 2028, much faster than the average for all occupations." - [Source](https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm#:~:text=5%25-,Employment%20of%20software%20developers%20is%20projected%20to%20grow%2021%20percent,projected%20to%20grow%2010%20percent) 
 
@@ -38,9 +38,9 @@ Okay, so far so good!? Now what? Treat yourself to a premium course. Pay for a U
 
 
 #### To boot camp or to not boot camp, that is the question.
-If you feel you can't hold yourself accountable to teach yourself, feel overloaded with information, want a community to network with, and overall would like more learning support -- boot camps are the answer. I attended Academy Pittsburgh which is a great coding boot camp based out of Pittsburgh, PA. The great part about this boot camp is the diversity of the students and the knowledge and support of the instructors. Benefits also included: many group projects, an overview of multiple coding languages, improved soft skills, and access to a network of experienced engineers. Many boot camps will offer scholarships, or will only require you to pay tuition upon receiving a job afterward.  
+If you feel you can't hold yourself accountable to teach yourself, feel overloaded with information, want a community to network with, and overall would like more learning support -- boot camps are the answer. I attended Academy Pittsburgh which is a coding boot camp based out of Pittsburgh, PA. The great part about this boot camp is the diversity of the students and the knowledge and support of the instructors. Benefits also included: many group projects, an overview of multiple coding languages, improved soft skills, and access to a network of experienced engineers. Many boot camps will offer scholarships, or will only require you to pay tuition upon receiving a job afterward.  
 
-Do not feel like you _need_ to attend a boot camp, especially if funds do not allow. I know plenty of brilliant and successful self-taught developers. If you have the dedication and time you can absolutely teach yourself.
+Do not feel like you _need_ to attend a boot camp, especially if funds do not allow. I know plenty of brilliant and successful self-taught developers. If you have the dedication and time you can absolutely teach yourself. I felt a boot camp was the right choice for me to take in as many resources as I could expose myself to. I would study during the day and attend the boot camp classes in the evenings and weekends.
 
 
 ## 3. Build Your Road Map
@@ -63,11 +63,11 @@ Avoid becoming a "Master of None." When you are first learning to program it can
 ## 6. Get That Foot in the Door
 Look for an internship, junior engineering role, or freelancing gig (Fiverr and UpWork are good resources to find your first clients). I had often heard, "the hardest part is getting your foot in the door." In my opinion, even if you don't feel like you're ready for a job, you should still try. You'll learn how to interview at the very least and may discover some gaps in your knowledge along the way. You will learn the most on the job, there's nothing quite as valuable as real-world experience. There are plenty of companies that will pay you to learn or allow you to work under a Senior who will take you under their wing and bestow their years of knowledge on to you.
 
-__Important:__ The success of your first role as a Junior will largely rely on how the company treats and supports Junior Engineers. Do your research and heavily consider the amount of support they are offering before accepting a position. Your first job is a pivotal moment in your career. Even if you fail, never give up! There is always something to take away from perceived failures and setbacks. Whether you fail a job interview or lose your job. Always pick yourself up and keep learning. Learning to program is not a linear path. This isn't going to be smooth sailing, but it's going to be so rewarding, fascinating, and entirely worthwhile. I am currently working at a company that I love working for, with a great manager and coworkers. It is also worth noting, you have to learn balance, understanding when you need to give yourself breaks from constant learning -- this is tough stuff and burnout is common. Remember to be gentle with yourself during this whole process. 
+__Important:__ The success of your first role as a Junior will largely rely on how the company treats and supports Interns / Junior Engineers. Do your research and heavily consider the amount of support they are offering before accepting a position. Your first job will likely teach you a lot, feel really difficult and have you feeling impostor syndrom. Even if you fail, never give up! There is always something to take away from perceived failures and setbacks. Whether you fail a job interview or lose your job. Always pick yourself up and keep learning. Learning to program is not usually a linear path. This isn't going to be smooth sailing, but it's going to be so rewarding, fascinating, and entirely worthwhile. I am currently working at a company that I love working for, with a great manager and coworkers. It is also worth noting, you have to learn balance, understanding when you need to give yourself breaks from constant learning -- this is tough stuff and burnout is common. Remember to be gentle with yourself during this whole process. 
 
 
 ## You Got This
-I will leave you with some genuine motivation. You CAN become a Software Engineer. You can succeed and become a part of a community of awesome people who actually enjoy their profession. I hope this article was the sign or push in the right direction you needed to get started. If you are ever looking for guidance, please feel free to reach out, my email is always open! Thank you for reading this article and best of luck starting your journey.
+I will leave you with some genuine motivation. You CAN become a Software Engineer. You don't need to be "good at math" or "super computer savvy" or "a computer science graduate" to learn this! You can succeed and become a part of a community of awesome people who actually enjoy their profession. I hope this article was the sign or push in the right direction you needed to get started. If you are ever looking for guidance, please feel free to reach out to someone in the industry, including myself! Thank you for reading this article and best of luck starting your journey.
 
 
 _[Cover Photo Credit: @wocintechchat on Unsplash](https://unsplash.com/@wocintechchat)_
