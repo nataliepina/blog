@@ -7,6 +7,7 @@ date: '2020-09-01T10:00:00.000Z'
 draft: false
 ---
 
+> I think git enters a whole other realm the moment you start working in teams -- there are so many cool different flows and ways that people can commit code, share code, and add code to your repo open-source or closed-source-wise. — [Scott Talenski - Syntax.fm](https://podcasts.apple.com/us/podcast/git-fundamentals/id1253186678?i=1000492249335)
 
 There is a stange in learning git where most developers don't know what a good commit message consists of. Eventually, you manage to come up with some sort of basic habits in your commit style. Have you ever wondered how you can improve those commit messages? Look no further! This guide outlines simple ways to improve your commits.
 
