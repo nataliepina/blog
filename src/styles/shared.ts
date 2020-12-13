@@ -52,7 +52,7 @@ export const SiteDescription = styled.h2`
   z-index: 10;
   margin: 0;
   padding: 5px 0;
-  font-size: 1.7rem;
+  font-size: 3.6rem;
   line-height: 1.4em;
   font-weight: bold;
   opacity: 1;
