@@ -1,5 +1,5 @@
 ---
-title: 'So You Want to Quit Your Job and Become a Software Engineer'
+title: 'How to Start Your New Career as a Software Engineer'
 author: [Natalie Pina]
 tags: ["Code", "Software Engineer", "Learn to Program", "Learn To Code", "Coding", "Learning", "Junior Developer", "Code newbie", "Learning to Code", "Quit your job"]
 image: img/coding-journey.jpg

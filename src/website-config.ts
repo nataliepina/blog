@@ -50,7 +50,7 @@ export interface WebsiteConfig {
 
 const config: WebsiteConfig = {
   title: 'Natalie Pina',
-  description: 'Front End Software Engineering. Web design. UI tips. CSS tricks.',
+  description: 'Front End Software Engineering. Web Design. UI Tips. CSS Tricks.',
   coverImage: 'img/bluepinkpour.jpeg',
   logo: 'img/ghost-logo.png',
   lang: 'en',
