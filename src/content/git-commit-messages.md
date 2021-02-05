@@ -4,28 +4,25 @@ author: [Natalie Pina]
 tags: ["Code", "git", "git commit", "better git commit", "How to improve git commit", "how to write better commit messages", "github", "simple git commit guide", "easy git commit", "how to git commit a message", "steps for git commit messages"]
 image: img/commiting.jpg
 date: '2020-09-01T10:00:00.000Z'
-draft: true
+draft: false
 ---
 
 > I think git enters a whole other realm the moment you start working in teams -- there are so many cool different flows and ways that people can commit code, share code, and add code to your repo open-source or closed-source-wise. — [Scott Tolinski - Syntax.fm](https://podcasts.apple.com/us/podcast/git-fundamentals/id1253186678?i=1000492249335)
 
-There is a stange in learning git where most developers don't know what a good commit message consists of. Eventually, you manage to come up with some sort of basic habits in your commit style. Have you ever wondered how you can improve those commit messages? Look no further! This guide outlines simple ways to improve your commits.
+When first introduced to git, it is not uncommon for developers to feel uncomfortable writing git messages. Eventually, you manage to come up with some habits in your commit style. Have you ever wondered how or if you can improve those commit messages? This guide outlines simple improvements to your git commit messages that you can start using today.
 
-This article assumes you already understand basic git workflow. If not read some more about it it here: [Git Handbook](https://guides.github.com/introduction/git-handbook/) 
+This article assumes you already understand basic git workflow. If not read some more about it here: [Git Handbook](https://guides.github.com/introduction/git-handbook/) 
 
-
-**Disclaimer:**  It is also important to note that you should follow your team's conventions first and foremost. These tips are based on suggestions based upon research and general consensus from the community.
-
-
+It is also important to note that you should follow your team's conventions first and foremost. These tips are based on suggestions based upon research and general consensus from the community.
 
 ## Why write better commit messages?
 
-I challenge you to open up a personal project or any repository for that matter and run `git log`, to view a list of old commit messages. The vast majority of us who have run through tutorials or made quick fixes will say -- "Yep... I have absolutely no idea what I meant by "Fix style" 6 months ago."  
+I challenge you to open up a personal project or any repository for that matter and run `git log`, to view a list of old commit messages. The vast majority of us who have run through tutorials or made quick fixes will say -- "Yep... I have absolutely no idea what I meant by 'Fix style' 6 months ago."
 
 ### Back To The Future
 You are simply future-proofing yourself. You could save yourself and/or coworkers hours of troubleshooting by providing that description. The extra time to write a thoughtful commit message as a letter to your potential future self is extremely worthwhile. On large scale projects, documentation is imperative for maintenance. 
 
-Collaboration and communication are SO important within engineering teams. The git commit message is a prime example of this. I highly suggest setting up a convention for commit messages on your team if you do not already have one in place.
+Collaboration and communication are of utmost importance within engineering teams. The git commit message is a prime example of this. I highly suggest setting up a convention for commit messages on your team if you do not already have one in place.
 
 
 ### Methods to Commit
@@ -45,8 +42,10 @@ Collaboration and communication are SO important within engineering teams. The g
 Capitalize the first word and do not end in punctuation
 
 ###### 2. Mood
-Use Imperative Mood in the subject line. 
+Use imperative mood in the subject line. 
 Ex: `Add fix for dark mode toggle`
+
+Imperative mood gives the tone you are giving an order or request.
 
 ###### 3. Type of Commit 
 Specify the type of commit. It is recommended and can be even more beneficial to have a consistent set of words to describe your changes. 
@@ -86,7 +85,7 @@ It is clear which of these would be more useful to future readers. 
 [Source](https://seesparkbox.com/foundry/semantic_commit_messages) 
 
 
-- If you're using VSCode -- download GitBlame! This is a prime example of why useful commit messages can help future developers. This plugin will list the person who made the change, the date of the changes, as well as the commit message commented inline. Imagine how useful this could be in troubleshooting a bug or backtracing changes made.
+- If you're using VSCode -- download GitBlame! This is a prime example of why useful commit messages can help future developers. This plugin will list the person who made the change, the date of the changes, as well as the commit message commented inline. Imagine how useful this could be in troubleshooting a bug or back-tracing changes made.
 
 ![GitBlame](img/git-commit-gitblame.png)
 
@@ -126,7 +125,7 @@ Review the following messages and see how many of the guidelines they check off 
 
 -----
 
-## Conclusion: TLDR;
+## Conclusion
 
 Writing good commit messages is an extremely beneficial skill to develop, to aid in the communication and collaboration of teams. They serve as an archive of important changes. There is a general set of agreed-upon standards for commit messages, however, as long as your team agrees upon a convention that is descriptive with future readers in mind, there will be long-term benefits. How do you think these techniques can improve your commits?
 
