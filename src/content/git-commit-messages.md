@@ -4,7 +4,7 @@ author: [Natalie Pina]
 tags: ["Code", "git", "git commit", "better git commit", "How to improve git commit", "how to write better commit messages", "github", "simple git commit guide", "easy git commit", "how to git commit a message", "steps for git commit messages"]
 image: img/commiting.jpg
 date: '2020-09-01T10:00:00.000Z'
-draft: false
+draft: true
 ---
 
 > I think git enters a whole other realm the moment you start working in teams -- there are so many cool different flows and ways that people can commit code, share code, and add code to your repo open-source or closed-source-wise. — [Scott Tolinski - Syntax.fm](https://podcasts.apple.com/us/podcast/git-fundamentals/id1253186678?i=1000492249335)
@@ -82,7 +82,7 @@ It is clear which of these would be more useful to future readers. 
 
 - Pretend you're writing an email or article. Give the headline that will sum up what happened and what is important. Provide further details in the body in an organized fashion. In filmmaking, it is often quoted "show, don't tell" using visuals as the communication medium compared to a verbal explanation of what is happening. In our case, "TELL, don't show" though we have some visuals at our disposal such as the browser, most of the details come from reading the physical code.
 
-- Use a set of common prefixes for your commit messages. There are different implementation convetions out there for this. Examples: feat, fix, docs, style, refactor, test, chore. 
+- Use a set of common prefixes for your commit messages. There are different implementation conventions out there for this. Examples: feat, fix, docs, style, refactor, test, chore. 
 [Source](https://seesparkbox.com/foundry/semantic_commit_messages) 
 
 
